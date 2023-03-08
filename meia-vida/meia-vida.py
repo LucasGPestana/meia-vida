@@ -55,7 +55,7 @@ if __name__ == '__main__':
               
             limpaTela()
 
-            qtd_atual = input("Digite a quantidade final da amostra: ")
+            qtd_atual = input("Digite a quantidade atual da amostra: ")
 
             limpaTela()
 
